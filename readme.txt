@@ -11,3 +11,5 @@ MongoDB
 WildFly
 Gradle
 JUnit, DBUnit, KarmaJS
+
+Embedded game :)
